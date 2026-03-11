@@ -34,7 +34,7 @@ Trabalhamos sempre priorizando:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongo,postgres,git,github,vscode,figma&theme=dark"/>
 
 </p>
 
